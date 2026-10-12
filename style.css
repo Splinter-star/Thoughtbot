@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #201313;
+    text-align: left;
+    padding-left: 190px;
+    padding-right: 190px;
+}
+
+.header {
+    margin-top: 100px;
+    color: #FAF9F9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+.topics button {
+    padding: 10px 20px 25px 10px;
+    border-radius: 40px;
+    height: 10px;
+    text-align: center;
+    background-color: #201313;
+    color: white;
+    font-family: "Martian Mono", monospace;
+    border: 1px solid gray;
+    margin-right: 5px;
+}
+.body2 h1 {
+    margin-top: 50px;
+    color: #FAF9F9;
+}
+.body3 h1 {
+    margin-top: 50px;
+}
+.body4 h1 {
+    margin-top: 50px;
+}
+.body5 h1 {
+    margin-top: 50px;
+}
+.body6 h1 {
+    margin-top: 50px;
+}
+.body7 h1 {
+    margin-top: 50px;
+}
+.body8 h1 {
+    margin-top: 50px;
+    color: #FAF9F9;
+}
+.body8 p {
+    color: #FAF9F9;
+    
+}
